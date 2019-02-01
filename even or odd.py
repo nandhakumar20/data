@@ -1,5 +1,5 @@
 n = int(input())
 if (n % 2) == 0:
-   print("given number n is Even".format(n))
+   print("even".format(n))
 else:
-   print("given number n is Odd".format(n))
+   print("Odd".format(n))
